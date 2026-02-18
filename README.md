@@ -276,6 +276,32 @@ Frontend
 
 
 
+\## 📸 Screenshots
+
+
+
+\### Bookmark List Page
+
+!\[List Page](screenshots/list-page.png)
+
+
+
+\### Add Bookmark Page
+
+!\[Add Page](screenshots/form-page.png)
+
+
+
+\### Edit Bookmark Page
+
+!\[Edit Page](screenshots/edit-page.png)
+
+
+
+--------------------------------------------------
+
+
+
 🔄 Application Flow
 
 
